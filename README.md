@@ -39,18 +39,18 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ### Application Frameworks
 
-[Actix](https://github.com/actix/actix) Actor framework for Rust
-[Akka](https://github.com/akka/akka) Build highly concurrent, distributed, and resilient message-driven applications on the JVM [akka.io](https://akka.io)  
-[Akka.Net](https://github.com/akkadotnet/akka.net) Akka.NET is a professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET. [getakka.net](https://getakka.net/)  
-[Comedy](https://github.com/untu/comedy) Node.js actor framework.
-[Microsoft Orleans](https://github.com/dotnet/orleans) Orleans is a cross-platform framework for building robust, scalable distributed applications  
-[Microsoft Service Fabric Reliable Actors](https://github.com/microsoft/service-fabric-services-and-actors-dotnet) Reliable Actors is a Service Fabric application framework based on the Virtual Actor pattern. The Reliable Actors API provides a single-threaded programming model built on the scalability and reliability guarantees provided by Service Fabric. [Docs](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction), [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)  
-[Microsoft Dapr Actors](https://github.com/dapr/docs/blob/master/concepts/actor/actor_overview.md) Dapr runtime provides an actor implementation which is based on Virtual Actor pattern. The Dapr actors API provides a single-threaded programming model leveraging the scalability and reliability guarantees provided by underlying platform on which Dapr is running. [Dapr](https://github.com/dapr/dapr)  
-[Orbit](https://github.com/orbit/orbit) Distributed systems framework for the JVM by @electronicarts. [www.orbit.cloud](http://www.orbit.cloud)  
-[ProtoActor](https://github.com/AsynkronIT) Ultra fast distributed actors for Go, C# and Java/Kotlin [proto.actor](http://proto.actor)  
-[Riker](https://github.com/riker-rs/riker/) Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust. [riker.rs](https://riker.rs)  
-[Rotor](https://github.com/basiliscos/cpp-rotor) Event loop friendly C++ actor micro-framework  
-[SObjectizer](https://github.com/Stiffstream/sobjectizer) SObjectizer is one of a few cross-platform and OpenSource "actor frameworks" for C++. But SObjectizer supports not only Actor Model, but also Publish-Subscribe Model and CSP-like channels. The goal of SObjectizer is significant simplification of development of concurrent and multithreaded applications in C++.  
+- [Actix](https://github.com/actix/actix) Actor framework for Rust
+- [Akka](https://github.com/akka/akka) Build highly concurrent, distributed, and resilient message-driven applications on the JVM [akka.io](https://akka.io)  
+- [Akka.Net](https://github.com/akkadotnet/akka.net) Akka.NET is a professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET. [getakka.net](https://getakka.net/)  
+- [Comedy](https://github.com/untu/comedy) Node.js actor framework.
+- [Microsoft Orleans](https://github.com/dotnet/orleans) Orleans is a cross-platform framework for building robust, scalable distributed applications  
+- [Microsoft Service Fabric Reliable Actors](https://github.com/microsoft/service-fabric-services-and-actors-dotnet) Reliable Actors is a Service Fabric application framework based on the Virtual Actor pattern. The Reliable Actors API provides a single-threaded programming model built on the scalability and reliability guarantees provided by Service Fabric. [Docs](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction), [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)  
+- [Microsoft Dapr Actors](https://github.com/dapr/docs/blob/master/concepts/actor/actor_overview.md) Dapr runtime provides an actor implementation which is based on Virtual Actor pattern. The Dapr actors API provides a single-threaded programming model leveraging the scalability and reliability guarantees provided by underlying platform on which Dapr is running. [Dapr](https://github.com/dapr/dapr)  
+- [Orbit](https://github.com/orbit/orbit) Distributed systems framework for the JVM by @electronicarts. [www.orbit.cloud](http://www.orbit.cloud)  
+- [ProtoActor](https://github.com/AsynkronIT) Ultra fast distributed actors for Go, C# and Java/Kotlin [proto.actor](http://proto.actor)  
+- [Riker](https://github.com/riker-rs/riker/) Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust. [riker.rs](https://riker.rs)  
+- [Rotor](https://github.com/basiliscos/cpp-rotor) Event loop friendly C++ actor micro-framework  
+- [SObjectizer](https://github.com/Stiffstream/sobjectizer) SObjectizer is one of a few cross-platform and OpenSource "actor frameworks" for C++. But SObjectizer supports not only Actor Model, but also Publish-Subscribe Model and CSP-like channels. The goal of SObjectizer is significant simplification of development of concurrent and multithreaded applications in C++.  
 
 ### Application Templates
 
