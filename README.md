@@ -12,7 +12,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ## Contents
 
-- [Awesome Actor Model ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-actor-model-awesomehttpsgithubcomsindresorhusawesome)
+- [Awesome Actor Model](#awesome-actor-model)
   - [Contents](#contents)
   - [General](#general)
   - [Awesome lists](#awesome-lists)
