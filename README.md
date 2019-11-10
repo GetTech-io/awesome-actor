@@ -24,6 +24,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
   - [Books](#books)
   - [Videos](#videos)
   - [Podcasts](#podcasts)
+  - [Research](#research)
   - [Community](#community)
   - [License](#license)
 
@@ -48,6 +49,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 - [Microsoft Service Fabric Reliable Actors](https://github.com/microsoft/service-fabric-services-and-actors-dotnet) - Reliable Actors is a Service Fabric application framework based on the Virtual Actor pattern. The Reliable Actors API provides a single-threaded programming model built on the scalability and reliability guarantees provided by Service Fabric. [Docs](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction), [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)  
 - [Microsoft Dapr Actors](https://github.com/dapr/docs/blob/master/concepts/actor/actor_overview.md) - Dapr runtime provides an actor implementation which is based on Virtual Actor pattern. The Dapr actors API provides a single-threaded programming model leveraging the scalability and reliability guarantees provided by underlying platform on which Dapr is running. [Dapr](https://github.com/dapr/dapr)  
 - [Orbit](https://github.com/orbit/orbit) - Distributed systems framework for the JVM by @electronicarts. [www.orbit.cloud](http://www.orbit.cloud)  
+- [Orleankka](https://github.com/OrleansContrib/Orleankka) - Orleankka is a functional extension for Microsoft Orleans framework. It provides a message-based API similar to Akka/ProtoActor, carefully layered on top of the Orleans (that's what in a name). Orleankka is an excellent choice for use-cases which can benefit from composable, uniform communication interface, such as CQRS, event-sourcing, FSM, etc.    
 - [ProtoActor](https://github.com/AsynkronIT) - Ultra fast distributed actors for Go, C# and Java/Kotlin [proto.actor](http://proto.actor)  
 - [Pykka](https://github.com/jodal/pykka) - Pykka is a Python implementation of the actor model, which makes it easier to build concurrent applications [www.pykka.org](https://www.pykka.org)  
 - [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM. [docs](http://docs.paralleluniverse.co/quasar/)  
@@ -61,14 +63,32 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ## Articles
 
+- [Introducing Orleans 3.0](https://devblogs.microsoft.com/dotnet/orleans-3-0/)
+
 ## Books
 
 ## Videos
 
+- [Distributed Transactions are dead - Sergey Bykov](https://www.youtube.com/watch?v=epOLEdaPSLQ)  
+- [Distributed Transactions are dead, long live distributed transaction! - Sergey Bykov](https://www.youtube.com/watch?v=8A5bRdyZXJw)  
+- [Building distributed applications with Orleans - Sergey Bykov](https://www.youtube.com/watch?v=rlfnmyTEujA)  
+- [How to build real-world applications with Orleans - John Azariah and Sergey Bykov](https://www.youtube.com/watch?v=7OVU9Mqqzgs)  
+- [Orleans Architecture Patterns - Sergey Bykov and John Azariah](https://www.youtube.com/watch?v=dxwkYp4Fg3g)  
+- [Building personalization with Orleans and Actor Modelling - Harald Schult Ulriksen](https://www.youtube.com/watch?v=3NT7uMV8GhQ)
+- [Reactive Distributed Microservices on .NET - Reuben Bond](https://www.youtube.com/watch?v=Cj_jUHCXE3U)  
+- [Actor Model Explained](https://www.youtube.com/watch?v=ELwEdb_pD0k)  
+- [An Introduction To The Actor Model And Akka .NET - Sean Killeen](https://www.youtube.com/watch?v=4Afz-cdL7HU)  
+
 ## Podcasts
+
+## Research
+
+- [Microsoft Researc - Orleans Virtual Actors](https://www.microsoft.com/en-us/research/project/orleans-virtual-actors/) - Project “Orleans” invented the Virtual Actor abstraction, which provides a straightforward approach to building distributed interactive applications, without the need to learn complex programming patterns for handling concurrency, fault tolerance, and resource management.    
 
 ## Community
 
+- [Orleans Contrib](https://github.com/OrleansContrib/) - Orleans Community Contributions  
+
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
