@@ -83,7 +83,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ## Research
 
-- [Microsoft Researc - Orleans Virtual Actors](https://www.microsoft.com/en-us/research/project/orleans-virtual-actors/) - Project “Orleans” invented the Virtual Actor abstraction, which provides a straightforward approach to building distributed interactive applications, without the need to learn complex programming patterns for handling concurrency, fault tolerance, and resource management.    
+- [Microsoft Research - Orleans Virtual Actors](https://www.microsoft.com/en-us/research/project/orleans-virtual-actors/) - Project “Orleans” invented the Virtual Actor abstraction, which provides a straightforward approach to building distributed interactive applications, without the need to learn complex programming patterns for handling concurrency, fault tolerance, and resource management.    
 
 ## Community
 
