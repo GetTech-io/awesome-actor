@@ -65,6 +65,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 ## Articles
 
 - [Introducing Orleans 3.0](https://devblogs.microsoft.com/dotnet/orleans-3-0/)
+- [Introductory hands on series for Tarant](https://dev.to/kanekotic/series/22701)
 
 ## Books
 
