@@ -56,6 +56,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 - [Riker](https://github.com/riker-rs/riker/) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust. [riker.rs](https://riker.rs)  
 - [Rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro-framework  
 - [SObjectizer](https://github.com/Stiffstream/sobjectizer) - SObjectizer is one of a few cross-platform and OpenSource "actor frameworks" for C++. But SObjectizer supports not only Actor Model, but also Publish-Subscribe Model and CSP-like channels. The goal of SObjectizer is significant simplification of development of concurrent and multithreaded applications in C++.  
+- [Tarant](https://github.com/tarantx) - Fullstack composable actor system for Typescript/Javascript implementing an extensible framework that allows to focus in domain logic and delegate the rest to the platform.
 
 ### Application Templates
 
@@ -64,6 +65,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 ## Articles
 
 - [Introducing Orleans 3.0](https://devblogs.microsoft.com/dotnet/orleans-3-0/)
+- [Introductory hands on series for Tarant](https://dev.to/kanekotic/series/22701)
 
 ## Books
 
